@@ -1,0 +1,15 @@
+{
+	"name": "marekfactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f3a4463-08cb-4c9e-b555-fed1bfeae131",
+		"tenantId": "260ce5f1-89a0-41d7-86cb-fa06368f7776"
+	}
+}
